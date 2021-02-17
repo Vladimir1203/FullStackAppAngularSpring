@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'testapp';
+  test = 'testiram malo da li radi komponent (interpolacija)';
 }
